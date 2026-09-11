@@ -75,14 +75,18 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 
 You can also use **VS Code + Live Server** for a better development experience.
 
-## 📸 Preview
+
 
 
 
 ```md
-![Cookify Preview](images/output1.png)
-![Cookify Preview](images/output2.png)
-![Cookify Preview](images/output3.png)
+## 📸 Project Preview
+
+<p align="center">
+  <img src="images/output1.png" width="30%">
+  <img src="images/output2.png" width="30%">
+  <img src="images/output3.png" width="30%">
+</p>
 ```
 
 
