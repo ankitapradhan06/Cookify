@@ -80,8 +80,11 @@ You can also use **VS Code + Live Server** for a better development experience.
 
 
 ```md
-![Cookify Preview](images/preview.png)
+![Cookify Preview](images/output1.png)
+![Cookify Preview](images/output2.png)
+![Cookify Preview](images/output3.png)
 ```
+
 
 ## 🔮 Future Improvements
 
