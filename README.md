@@ -79,7 +79,7 @@ You can also use **VS Code + Live Server** for a better development experience.
 
 
 
-```md
+
 ## 📸 Project Preview
 
 <p align="center">
@@ -87,7 +87,6 @@ You can also use **VS Code + Live Server** for a better development experience.
   <img src="images/output2.png" width="30%">
   <img src="images/output3.png" width="30%">
 </p>
-```
 
 
 ## 🔮 Future Improvements
